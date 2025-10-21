@@ -8,7 +8,7 @@ func main(){
 	int 
 	float32
 	bool
-	string
+	stringbzhxhxxhhxhxhxhxhxhx
 	*/
 
 
