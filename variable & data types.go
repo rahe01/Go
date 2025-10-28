@@ -6,7 +6,7 @@ func main(){
 
 	/*
 	int 
-	float32 czzzzz
+	float32 czzzzzxkkxjx
 	bool
 	stringbzhxhxxhhxhxhxhxhxhxvczzzsfhvcdft
 	*/
